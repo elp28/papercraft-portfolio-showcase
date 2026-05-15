@@ -78,6 +78,10 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
       { property: "og:description", content: "Industrial cartonage and corrugated packaging engineered for durability, logistics efficiency, and sustainability." },
       { property: "og:type", content: "website" },
       { name: "twitter:card", content: "summary_large_image" },
+      { name: "twitter:title", content: "CARTONEX — Precision Engineered Cardboard Packaging" },
+      { name: "twitter:description", content: "Industrial cartonage and corrugated packaging engineered for durability, logistics efficiency, and sustainability." },
+      { property: "og:image", content: "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/bb7ec6d6-7012-4939-ba35-b31fea2c4066/id-preview-ac5c0830--b983cb1c-486f-4dcd-acd4-31cc8f9bf226.lovable.app-1778854459033.png" },
+      { name: "twitter:image", content: "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/bb7ec6d6-7012-4939-ba35-b31fea2c4066/id-preview-ac5c0830--b983cb1c-486f-4dcd-acd4-31cc8f9bf226.lovable.app-1778854459033.png" },
     ],
     links: [
       { rel: "preconnect", href: "https://fonts.googleapis.com" },
